@@ -6,4 +6,3 @@
 6-) Dizi oluşturma dizileri kullanma dizileri yazdırma gibi konuları tamamladım.
 7-) Foreach döngül yapısını kullanmayı tamamladım
 8-) Metotları öğrendim geriye değer öndüren döndürmeyen.
-9-)
